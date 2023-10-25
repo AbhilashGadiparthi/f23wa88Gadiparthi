@@ -35,8 +35,8 @@ router.get('/', function (req, res, next) {
  
  
     <br> <br> cosh applied to ${random2} is ${number2}
- 
- 
+
+    
     <br> <br> floor applied to ${random1} is ${number3}`);
  
  
